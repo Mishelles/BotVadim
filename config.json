@@ -1,0 +1,6 @@
+{
+  "debug" : "0",
+  "dict_path" : "assets/dict.json",
+  "users_path" : "assets/users.json",
+  "access_token" : ""
+}
